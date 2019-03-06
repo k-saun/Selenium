@@ -8,8 +8,9 @@ Overview:
   primarily for automation testing. (In my case)
 
   Heres some code I've written while exploring concepts both in Ruby and Selenium. 
-  Certain elements have been redacted in an effort to conserve privacy. The soul 
-  purpose of this repo is to provide some insight into what I've been working on lately.
+  Certain elements have been redacted in an effort to conserve privacy of the company/website
+  I was accessing. The soul purpose of this repo is to provide some insight into what I've 
+  been working on lately.
 
 Use:
   $ruby SeleniumTestR.rb
